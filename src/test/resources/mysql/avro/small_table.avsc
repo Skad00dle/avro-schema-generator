@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "small_table",
+  "namespace": "mysql",
+
+  "fields": [
+    { "name": "id", "type": "int" }
+  ]
+}
